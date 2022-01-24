@@ -1,0 +1,121 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_6UDrUkNl1mA" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">Virtual Office Tour</langstring>
+        </title>
+        <description>
+          <langstring xml:lang="x-none">360 view of office and instructions</langstring>
+        </description>
+        <keyword>
+          <langstring xml:lang="x-none">virtual elearning</langstring>
+        </keyword>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="Virtual_Office_Tour_ORG">
+    <organization identifier="Virtual_Office_Tour_ORG">
+      <title>Virtual Office Tour</title>
+      <item identifier="Virtual_office_Tour_SCO" isvisible="true" identifierref="__6UDrUkNl1mA_RES">
+        <title>Virtual Office Tour</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__6UDrUkNl1mA_RES" type="webcontent" href="launcher.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/69UhSW8LakN_80_P_0_67_2048_1152_DX2560_DY2560_CX1919_CY1080.jpg" />
+      <file href="mobile/6kJRtM4a5XY_80_DX256_DY256_CX192_CY192.png" />
+      <file href="story_content/6Fjiwb6RzKs_full.jpg" />
+      <file href="story_content/6Fjiwb6RzKs_half.jpg" />
+      <file href="story_content/6Fjiwb6RzKs.js" />
+      <file href="mobile/6nlpPeRKQRM_80_DX690_DY408_CX690_CY408.jpg" />
+      <file href="mobile/6ljEl26TxEV_80_DX725_DY425_CX725_CY425.jpg" />
+      <file href="story_content/5VtvrAuBJPd_full.jpg" />
+      <file href="story_content/5VtvrAuBJPd_half.jpg" />
+      <file href="story_content/5VtvrAuBJPd.js" />
+      <file href="mobile/5hYjV4N3xI8_80_DX1001_DY605_CX1001_CY605.png" />
+      <file href="story_content/6htRtr78qUy_full.jpg" />
+      <file href="story_content/6htRtr78qUy_half.jpg" />
+      <file href="story_content/6htRtr78qUy.js" />
+      <file href="mobile/6WQL8lkZHiI_80_DX2560_DY2560_CX1920_CY1080.jpg" />
+      <file href="meta.xml" />
+      <file href="story_content/5csWzKtOcQa.jpg" />
+      <file href="story_content/user.js" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5muKbVzpl0y.js" />
+      <file href="html5/data/js/5UwaQR3w9ih.js" />
+      <file href="html5/data/js/5XjUvBMJIpl.js" />
+      <file href="html5/data/js/67ZmYwKTTUC.js" />
+      <file href="html5/data/js/6qPpPmwlA39.js" />
+      <file href="html5/data/js/6TUVoiDszyv.js" />
+      <file href="html5/data/js/6UiOQcM7j74.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/scripts/three.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="launcher.html" />
+      <file href="story_content/external_window.png" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
